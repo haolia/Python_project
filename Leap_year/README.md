@@ -17,6 +17,8 @@ UNLESS the year is also evenly divisible by 400`
   * 2100 ÷ 400 = 5.25 (Not Leap)
   
   
+  ![Leap_Year_Chart](https://user-images.githubusercontent.com/36781269/159159725-1ccd8f0f-4cb9-4199-a26f-8cc33add6b1d.PNG)
+
 ```python 
 year = int(input("Which year do you want to check? "))
 if year % 4 == 0:
