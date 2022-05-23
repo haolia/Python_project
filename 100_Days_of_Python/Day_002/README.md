@@ -1,4 +1,4 @@
-# Tip Calculator
+#  <p align="center"> Tip Calculator
 ### Instructions
 If the bill was $150.00, split between 5 people, with 12% tip.
 
