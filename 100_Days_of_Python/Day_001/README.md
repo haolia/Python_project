@@ -1,4 +1,4 @@
-# Band Name Generator
+#  <p align="center"> Band Name Generator
 
 Learn Topic : Input, Output, Variables, and Variable Naming
 
