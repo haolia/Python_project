@@ -1,5 +1,5 @@
 # Band Name Generator
-Learn : Input, Output, Variables, and Variable Naming
+Learn Topic: Input, Output, Variables, and Variable Naming
 
 ```python
 print("Welcome to the Band Name Generator.")
